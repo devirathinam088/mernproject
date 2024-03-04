@@ -1,0 +1,69 @@
+.loginsignup{
+    width: 100%;
+    height: 100vh;
+    background: #fce3fc;
+    background-image: url('data:image/jpeg;base64,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');
+    padding-top: 100px;
+    background-size: cover;
+    background-position: center;
+    image-rendering: pixelated;
+    filter: brightness(100%) contrast(100%);
+ }
+ .loginsignup-container{
+    width: 500px;
+    height: 615px;
+    background: white;
+    margin: auto;
+    padding: 40px 60px;
+ }
+ .loginsignup-container h1{
+    margin: 20px 0px;
+ }
+ .loginsignup-fields{
+    display: flex;
+    flex-direction: column;
+    gap:29px;
+    margin-top: 30px;
+ }
+ .loginsignup-fields input{
+    height: 72px;
+    width: 100%;
+    padding-left: 20px;
+    border: 1px solid #c9c9c9;
+    outline: none;
+    color: #5c5c5c;
+    font-size: 18px;
+ }
+ .loginsignup-container button{
+    width: 360px;
+    height: 72px;
+    color: white;
+    background: #ff4141;
+    margin-top: 30px;
+    border: none;
+    font-size: 24px;
+    font-weight: 500;
+    cursor: pointer;
+ }
+.loginsignup-login{
+    margin-top: 20px;
+    color: #5c5c5c;
+    font-size: 18px;
+    font-weight: 500;
+}
+.loginsignup-login span{
+    color: #ff4141;
+    font-weight: 600;
+}
+.loginsignup-agree{
+    display: flex;
+    align-items: center;
+    margin-top: 25px;
+    gap:20px;
+    color: #5c5c5c;
+    font-size: 18px;
+    font-weight: 500;
+}
+/* .footer{
+    width: 50px;
+} */
