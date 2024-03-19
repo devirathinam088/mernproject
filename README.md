@@ -1,2 +1,2 @@
-# Reactjs-MaterialUI-Resturant-website
-Complete Reactjs Resturant Website 
+# Reactjs-MaterialUI-Virtual Art Gallery-website
+Complete Reactjs Virtual Art Gallery Website 
